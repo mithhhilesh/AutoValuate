@@ -1,2 +1,2 @@
-# Used-Car-Price-Predictor
-Used Car Price Predictor using Linear Regression 
+# Used-Car-Price-Prediction-Model
+AutoValuate is Used Car Price Predictor built by leveraging Linear Regression 
