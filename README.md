@@ -98,8 +98,8 @@ The goal of this project is to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/auto-evaluate.git
-cd auto-evaluate
+git clone https://github.com/your-username/AutoValuate.git
+cd AutoValuate
 ```
 
 ### 2. Install Dependencies
