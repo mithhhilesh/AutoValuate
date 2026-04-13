@@ -1,12 +1,12 @@
-# 🚗 Auto Evaluate – Used Car Price Prediction
+# Auto Evaluate – Used Car Price Prediction
 
-## 📌 Overview
+## Overview
 
 **Auto Evaluate** is a machine learning project that predicts the price of used cars using **Linear Regression**. The model is trained on a dataset of **4009 car records** sourced from **Kaggle** and aims to provide accurate price estimates based on various car features.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal of this project is to:
 
@@ -16,7 +16,7 @@ The goal of this project is to:
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 * **Python**
 * **Pandas & NumPy** – Data handling
@@ -28,7 +28,7 @@ The goal of this project is to:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 * Source: Kaggle
 * Size: **4009 rows**
@@ -45,7 +45,7 @@ The goal of this project is to:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 1. Data Cleaning
 
@@ -86,20 +86,24 @@ The goal of this project is to:
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 * R² Score: *0.7322964983528121*
 * MAE: *6700.119108045312*
 
 ---
 ---
+### Ui Interface
 ![UI](images/1.jpeg)
 ![UI](images/2.jpeg)
 ![Adding Input](images/3.jpeg)
 ![Result](images/4.jpeg)
 
+### Original Price Distribution 
 ![Before cleaning Dataset](images/D1.jpeg)
 ![Identifying Outliers](images/D2.jpeg)
+
+### Price Distribution after removing outliers
 ![After Cleaning Dataset](images/D3.jpeg)
 ![Outliers Removed](images/D4.jpeg)
 ### Model Performance
@@ -107,7 +111,7 @@ The goal of this project is to:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -136,7 +140,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🧪 Example Prediction Flow
+##  Example Prediction Flow
 
 1. User inputs car details
 2. Data is preprocessed
@@ -146,7 +150,7 @@ http://127.0.0.1:5000
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 
 * Handling **skewed price data**
 * Dealing with **high cardinality features**
@@ -155,7 +159,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Use advanced models (Random Forest, XGBoost)
 * Improve feature engineering
@@ -174,7 +178,7 @@ http://127.0.0.1:5000
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 * Kaggle for dataset
 * Scikit-learn documentation
@@ -182,7 +186,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 📌 Note
+## Note
 
 This project is built for learning purposes and demonstrates a complete **end-to-end machine learning pipeline**.
 Flow:
