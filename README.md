@@ -92,6 +92,20 @@ The goal of this project is to:
 * MAE: *6700.119108045312*
 
 ---
+---
+![UI](images/1.jpeg)
+![UI](images/2.jpeg)
+![Adding Input](images/3.jpeg)
+![Result](images/4.jpeg)
+
+![Before cleaning Dataset](images/D1.jpeg)
+![Identifying Outliers](images/D2.jpeg)
+![After Cleaning Dataset](images/D3.jpeg)
+![Outliers Removed](images/D4.jpeg)
+### Model Performance
+![Visualization of Model's Performance](images/performance.jpeg)
+
+---
 
 ## 🚀 How to Run the Project
 
